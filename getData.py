@@ -1,6 +1,7 @@
 import requests
 import json
 
+# The counter for the each page.
 pageCount = 1
 masterList = []
 
