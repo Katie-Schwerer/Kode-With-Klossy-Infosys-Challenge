@@ -1,0 +1,3134 @@
+[
+    {
+        "id": 1,
+        "anime": "Cowboy Bebop: Tengoku no Tobira",
+        "character": "Spike Spiegel",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "anime": "Cowboy Bebop: Tengoku no Tobira",
+        "character": "Faye Valentine",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "anime": "Cowboy Bebop: Tengoku no Tobira",
+        "character": "Jet Black",
+        "gender": "Male"
+    },
+    {
+        "id": 4035,
+        "anime": "Cowboy Bebop: Tengoku no Tobira",
+        "character": "Vincent Volaju",
+        "gender": null
+    },
+    {
+        "id": 16,
+        "anime": "Cowboy Bebop: Tengoku no Tobira",
+        "character": "Edward Wong Hau Pepelu Tivrusky IV",
+        "gender": "Female"
+    },
+    {
+        "id": 8435,
+        "anime": "Cowboy Bebop: Tengoku no Tobira",
+        "character": "Electra Ovilo",
+        "gender": null
+    },
+    {
+        "id": 1259,
+        "anime": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+        "character": "Misato Katsuragi",
+        "gender": "Female"
+    },
+    {
+        "id": 86,
+        "anime": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+        "character": "Rei Ayanami",
+        "gender": "Female"
+    },
+    {
+        "id": 94,
+        "anime": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+        "character": "Asuka Langley Souryuu",
+        "gender": "Female"
+    },
+    {
+        "id": 89,
+        "anime": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+        "character": "Shinji Ikari",
+        "gender": "Male"
+    },
+    {
+        "id": 1259,
+        "anime": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+        "character": "Misato Katsuragi",
+        "gender": "Female"
+    },
+    {
+        "id": 86,
+        "anime": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+        "character": "Rei Ayanami",
+        "gender": "Female"
+    },
+    {
+        "id": 94,
+        "anime": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+        "character": "Asuka Langley Souryuu",
+        "gender": "Female"
+    },
+    {
+        "id": 89,
+        "anime": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+        "character": "Shinji Ikari",
+        "gender": "Male"
+    },
+    {
+        "id": 2654,
+        "anime": "GHOST IN THE SHELL: Koukaku Kidoutai",
+        "character": "Togusa",
+        "gender": null
+    },
+    {
+        "id": 2653,
+        "anime": "GHOST IN THE SHELL: Koukaku Kidoutai",
+        "character": "Batou",
+        "gender": "Male"
+    },
+    {
+        "id": 1795,
+        "anime": "GHOST IN THE SHELL: Koukaku Kidoutai",
+        "character": "Motoko Kusanagi",
+        "gender": "Female"
+    },
+    {
+        "id": 3870,
+        "anime": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem",
+        "character": "Shigure Takimi",
+        "gender": null
+    },
+    {
+        "id": 149,
+        "anime": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem",
+        "character": "Sanosuke Sagara",
+        "gender": "Male"
+    },
+    {
+        "id": 147,
+        "anime": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem",
+        "character": "Kenshin Himura",
+        "gender": "Male"
+    },
+    {
+        "id": 150,
+        "anime": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem",
+        "character": "Yahiko Myojin",
+        "gender": null
+    },
+    {
+        "id": 148,
+        "anime": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem",
+        "character": "Kaoru Kamiya",
+        "gender": "Female"
+    },
+    {
+        "id": 2588,
+        "anime": "AKIRA",
+        "character": "Shoutarou Kaneda",
+        "gender": "Male"
+    },
+    {
+        "id": 9875,
+        "anime": "AKIRA",
+        "character": "Kei",
+        "gender": "Female"
+    },
+    {
+        "id": 2589,
+        "anime": "AKIRA",
+        "character": "Tetsuo Shima",
+        "gender": "Male"
+    },
+    {
+        "id": 2210,
+        "anime": "Appleseed (Movie)",
+        "character": "Deunan Knute",
+        "gender": null
+    },
+    {
+        "id": 2211,
+        "anime": "Appleseed (Movie)",
+        "character": "Briareos Hecatonchires",
+        "gender": null
+    },
+    {
+        "id": 64215,
+        "anime": "Kidou Senshi Gundam: Dai 08 MS Shotai - Miller's Report",
+        "character": "Alice Miller",
+        "gender": "Female"
+    },
+    {
+        "id": 1324,
+        "anime": "Kidou Senshi Gundam: Dai 08 MS Shotai - Miller's Report",
+        "character": "Shiro Amada",
+        "gender": null
+    },
+    {
+        "id": 1325,
+        "anime": "Kidou Senshi Gundam: Dai 08 MS Shotai - Miller's Report",
+        "character": "Aina Sahalin",
+        "gender": null
+    },
+    {
+        "id": 40465,
+        "anime": "Kidou Senshi Gundam: Gyakushuu no Char",
+        "character": "Hathaway Noa",
+        "gender": "Male"
+    },
+    {
+        "id": 1335,
+        "anime": "Kidou Senshi Gundam: Gyakushuu no Char",
+        "character": "Amuro Ray",
+        "gender": "Male"
+    },
+    {
+        "id": 1336,
+        "anime": "Kidou Senshi Gundam: Gyakushuu no Char",
+        "character": "Char Aznable",
+        "gender": "Male"
+    },
+    {
+        "id": 16883,
+        "anime": "Kidou Senshi Gundam: Gyakushuu no Char",
+        "character": "Quess Paraya",
+        "gender": "Female"
+    },
+    {
+        "id": 14341,
+        "anime": "Kidou Senshi Gundam F91",
+        "character": "Cecily Fairchild",
+        "gender": "Female"
+    },
+    {
+        "id": 14340,
+        "anime": "Kidou Senshi Gundam F91",
+        "character": "Seabook Arno",
+        "gender": null
+    },
+    {
+        "id": 14342,
+        "anime": "Kidou Senshi Gundam F91",
+        "character": "Carozzo Ronah",
+        "gender": "Male"
+    },
+    {
+        "id": 436,
+        "anime": "X",
+        "character": "Kamui Shirou",
+        "gender": "Male"
+    },
+    {
+        "id": 442,
+        "anime": "X",
+        "character": "Fuuma Monou",
+        "gender": "Male"
+    },
+    {
+        "id": 1008,
+        "anime": "X",
+        "character": "Kanoe",
+        "gender": null
+    },
+    {
+        "id": 1007,
+        "anime": "X",
+        "character": "Kotori Monou",
+        "gender": null
+    },
+    {
+        "id": 2727,
+        "anime": "Mononoke-hime",
+        "character": "San",
+        "gender": "Female"
+    },
+    {
+        "id": 2802,
+        "anime": "Mononoke-hime",
+        "character": "Ashitaka",
+        "gender": "Male"
+    },
+    {
+        "id": 17255,
+        "anime": "Initial D THIRD STAGE",
+        "character": "Natsuki Mogi",
+        "gender": "Female"
+    },
+    {
+        "id": 2819,
+        "anime": "Initial D THIRD STAGE",
+        "character": "Takumi Fujiwara",
+        "gender": "Male"
+    },
+    {
+        "id": 385,
+        "anime": "Sen to Chihiro no Kamikakushi",
+        "character": "Haku",
+        "gender": "Male"
+    },
+    {
+        "id": 384,
+        "anime": "Sen to Chihiro no Kamikakushi",
+        "character": "Chihiro Ogino",
+        "gender": "Female"
+    },
+    {
+        "id": 12405,
+        "anime": "Project A-Ko",
+        "character": "Eiko Magami",
+        "gender": null
+    },
+    {
+        "id": 14071,
+        "anime": "Project A-Ko",
+        "character": "Shiko Kotobuki",
+        "gender": null
+    },
+    {
+        "id": 14070,
+        "anime": "Project A-Ko",
+        "character": "Biko Daitokuji",
+        "gender": "Female"
+    },
+    {
+        "id": 28432,
+        "anime": "Project A-Ko",
+        "character": "Captain Napolipolita",
+        "gender": "Female"
+    },
+    {
+        "id": 14069,
+        "anime": "Project A-Ko",
+        "character": "D",
+        "gender": "Female"
+    },
+    {
+        "id": 24298,
+        "anime": "Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari",
+        "character": "Sayaka Takai",
+        "gender": "Female"
+    },
+    {
+        "id": 7974,
+        "anime": "Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari",
+        "character": "Kouji Maeda",
+        "gender": null
+    },
+    {
+        "id": 2459,
+        "anime": "Kidou Senkan Nadesico: The prince of darkness",
+        "character": "Akito Tenkawa",
+        "gender": null
+    },
+    {
+        "id": 2461,
+        "anime": "Kidou Senkan Nadesico: The prince of darkness",
+        "character": "Ruri Hoshino",
+        "gender": null
+    },
+    {
+        "id": 49407,
+        "anime": "Aa! Megami-sama! Movie",
+        "character": "Celestine",
+        "gender": null
+    },
+    {
+        "id": 807,
+        "anime": "Aa! Megami-sama! Movie",
+        "character": "Skuld",
+        "gender": "Female"
+    },
+    {
+        "id": 756,
+        "anime": "Aa! Megami-sama! Movie",
+        "character": "Belldandy",
+        "gender": "Female"
+    },
+    {
+        "id": 806,
+        "anime": "Aa! Megami-sama! Movie",
+        "character": "Urd",
+        "gender": "Female"
+    },
+    {
+        "id": 808,
+        "anime": "Aa! Megami-sama! Movie",
+        "character": "Keiichi Morisato",
+        "gender": null
+    },
+    {
+        "id": 10296,
+        "anime": "Ace wo Nerae! (1979)",
+        "character": "Hiromi Oka",
+        "gender": null
+    },
+    {
+        "id": 24404,
+        "anime": "Ace wo Nerae! (1979)",
+        "character": "Jin Munakata",
+        "gender": null
+    },
+    {
+        "id": 30728,
+        "anime": "Xiao Qian",
+        "character": "Siu Lan",
+        "gender": null
+    },
+    {
+        "id": 30738,
+        "anime": "Xiao Qian",
+        "character": "White Cloud",
+        "gender": null
+    },
+    {
+        "id": 30731,
+        "anime": "Xiao Qian",
+        "character": "Red Beard",
+        "gender": null
+    },
+    {
+        "id": 30727,
+        "anime": "Xiao Qian",
+        "character": "Ning",
+        "gender": null
+    },
+    {
+        "id": 1816,
+        "anime": "Final Fantasy VII: Advent Children",
+        "character": "Sephiroth",
+        "gender": "Male"
+    },
+    {
+        "id": 456,
+        "anime": "Final Fantasy VII: Advent Children",
+        "character": "Cloud Strife",
+        "gender": "Male"
+    },
+    {
+        "id": 2926,
+        "anime": "Final Fantasy VII: Advent Children",
+        "character": "Kadaj",
+        "gender": null
+    },
+    {
+        "id": 758,
+        "anime": "Final Fantasy VII: Advent Children",
+        "character": "Tifa Lockhart",
+        "gender": "Female"
+    },
+    {
+        "id": 2671,
+        "anime": "Cardcaptor Sakura Movie",
+        "character": "Sakura Kinomoto",
+        "gender": "Female"
+    },
+    {
+        "id": 2897,
+        "anime": "Cardcaptor Sakura Movie",
+        "character": "Cerberus",
+        "gender": "Male"
+    },
+    {
+        "id": 3029,
+        "anime": "Cardcaptor Sakura Movie",
+        "character": "Xiaolang Li",
+        "gender": "Male"
+    },
+    {
+        "id": 2897,
+        "anime": "Cardcaptor Sakura Movie: Fuinsareta Card",
+        "character": "Cerberus",
+        "gender": "Male"
+    },
+    {
+        "id": 2671,
+        "anime": "Cardcaptor Sakura Movie: Fuinsareta Card",
+        "character": "Sakura Kinomoto",
+        "gender": "Female"
+    },
+    {
+        "id": 3029,
+        "anime": "Cardcaptor Sakura Movie: Fuinsareta Card",
+        "character": "Xiaolang Li",
+        "gender": "Male"
+    },
+    {
+        "id": 14428,
+        "anime": "eX-Driver the Movie",
+        "character": "Lisa Sakakino",
+        "gender": "Female"
+    },
+    {
+        "id": 12067,
+        "anime": "eX-Driver the Movie",
+        "character": "Soichi Sugano",
+        "gender": "Male"
+    },
+    {
+        "id": 14427,
+        "anime": "eX-Driver the Movie",
+        "character": "Lorna Endou",
+        "gender": "Female"
+    },
+    {
+        "id": 2803,
+        "anime": "Escaflowne",
+        "character": "Van Fanel",
+        "gender": "Male"
+    },
+    {
+        "id": 2800,
+        "anime": "Escaflowne",
+        "character": "Hitomi Kanzaki",
+        "gender": "Female"
+    },
+    {
+        "id": 45199,
+        "anime": "BLOOD THE LAST VAMPIRE",
+        "character": "Saya",
+        "gender": "Female"
+    },
+    {
+        "id": 39865,
+        "anime": "Hoohokekyo Tonari no Yamada-kun",
+        "character": "Nonoko Yamada",
+        "gender": "Female"
+    },
+    {
+        "id": 80475,
+        "anime": "Hoohokekyo Tonari no Yamada-kun",
+        "character": "Noboru Yamada",
+        "gender": "Male"
+    },
+    {
+        "id": 80469,
+        "anime": "Hoohokekyo Tonari no Yamada-kun",
+        "character": "Takashi Yamada",
+        "gender": "Male"
+    },
+    {
+        "id": 80471,
+        "anime": "Hoohokekyo Tonari no Yamada-kun",
+        "character": "Matsuko Yamada",
+        "gender": "Female"
+    },
+    {
+        "id": 80473,
+        "anime": "Hoohokekyo Tonari no Yamada-kun",
+        "character": "Shige Yamada",
+        "gender": "Female"
+    },
+    {
+        "id": 8044,
+        "anime": "Kurenai no Buta",
+        "character": "Fio Piccolo",
+        "gender": "Female"
+    },
+    {
+        "id": 3812,
+        "anime": "Kurenai no Buta",
+        "character": "Donald Curtis",
+        "gender": null
+    },
+    {
+        "id": 7747,
+        "anime": "Kurenai no Buta",
+        "character": "Porco Rosso",
+        "gender": "Male"
+    },
+    {
+        "id": 668,
+        "anime": "Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+        "character": "Ranma Saotome",
+        "gender": "Male"
+    },
+    {
+        "id": 669,
+        "anime": "Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+        "character": "Akane Tendou",
+        "gender": "Female"
+    },
+    {
+        "id": 39002,
+        "anime": "Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+        "character": "Kirin",
+        "gender": "Male"
+    },
+    {
+        "id": 39001,
+        "anime": "Ranma 1/2: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+        "character": "Lychee",
+        "gender": "Female"
+    },
+    {
+        "id": 2954,
+        "anime": "SPRIGGAN",
+        "character": "Yuu Ominae",
+        "gender": "Male"
+    },
+    {
+        "id": 19453,
+        "anime": "SPRIGGAN",
+        "character": "McDougal",
+        "gender": null
+    },
+    {
+        "id": 25357,
+        "anime": "Sirius no Densetsu",
+        "character": "Sirius",
+        "gender": "Male"
+    },
+    {
+        "id": 25356,
+        "anime": "Sirius no Densetsu",
+        "character": "Malta",
+        "gender": "Female"
+    },
+    {
+        "id": 15347,
+        "anime": "Pocket Monsters Advanced Generation: Pok\u00e9mon Ranger to Umi no Ouji Manaphy",
+        "character": "Jack Walker",
+        "gender": null
+    },
+    {
+        "id": 3854,
+        "anime": "Pocket Monsters Advanced Generation: Pok\u00e9mon Ranger to Umi no Ouji Manaphy",
+        "character": "Takeshi",
+        "gender": "Male"
+    },
+    {
+        "id": 3891,
+        "anime": "Pocket Monsters Advanced Generation: Pok\u00e9mon Ranger to Umi no Ouji Manaphy",
+        "character": "Pikachu",
+        "gender": null
+    },
+    {
+        "id": 6841,
+        "anime": "Pocket Monsters Advanced Generation: Pok\u00e9mon Ranger to Umi no Ouji Manaphy",
+        "character": "Haruka",
+        "gender": null
+    },
+    {
+        "id": 15348,
+        "anime": "Pocket Monsters Advanced Generation: Pok\u00e9mon Ranger to Umi no Ouji Manaphy",
+        "character": "Manaphy",
+        "gender": null
+    },
+    {
+        "id": 2473,
+        "anime": "Pocket Monsters Advanced Generation: Pok\u00e9mon Ranger to Umi no Ouji Manaphy",
+        "character": "Satoshi",
+        "gender": "Male"
+    },
+    {
+        "id": 6842,
+        "anime": "Pocket Monsters Advanced Generation: Pok\u00e9mon Ranger to Umi no Ouji Manaphy",
+        "character": "Masato",
+        "gender": null
+    },
+    {
+        "id": 55861,
+        "anime": "Pocket Monsters Advanced Generation: Pok\u00e9mon Ranger to Umi no Ouji Manaphy",
+        "character": "Captain Phantom",
+        "gender": null
+    },
+    {
+        "id": 2532,
+        "anime": "Toki wo Kakeru Shoujo",
+        "character": "Kousuke Tsuda",
+        "gender": null
+    },
+    {
+        "id": 2531,
+        "anime": "Toki wo Kakeru Shoujo",
+        "character": "Chiaki Mamiya",
+        "gender": null
+    },
+    {
+        "id": 2530,
+        "anime": "Toki wo Kakeru Shoujo",
+        "character": "Makoto Konno",
+        "gender": null
+    },
+    {
+        "id": 40080,
+        "anime": "Nagagutsu wo Haita Neko",
+        "character": "Pierre",
+        "gender": "Male"
+    },
+    {
+        "id": 27988,
+        "anime": "Nagagutsu wo Haita Neko",
+        "character": "Pero",
+        "gender": "Male"
+    },
+    {
+        "id": 14861,
+        "anime": "Anime Sanjuushi: Aramis no Bouken",
+        "character": "Jean",
+        "gender": null
+    },
+    {
+        "id": 14851,
+        "anime": "Anime Sanjuushi: Aramis no Bouken",
+        "character": "Athos",
+        "gender": null
+    },
+    {
+        "id": 14854,
+        "anime": "Anime Sanjuushi: Aramis no Bouken",
+        "character": "Porthos",
+        "gender": null
+    },
+    {
+        "id": 14852,
+        "anime": "Anime Sanjuushi: Aramis no Bouken",
+        "character": "Aramis",
+        "gender": null
+    },
+    {
+        "id": 14849,
+        "anime": "Anime Sanjuushi: Aramis no Bouken",
+        "character": "D'Artagnan",
+        "gender": null
+    },
+    {
+        "id": 724,
+        "anime": "ONE PIECE: Yume no Soccer Ou!",
+        "character": "Usopp",
+        "gender": "Male"
+    },
+    {
+        "id": 40,
+        "anime": "ONE PIECE: Yume no Soccer Ou!",
+        "character": "Luffy Monkey",
+        "gender": "Male"
+    },
+    {
+        "id": 723,
+        "anime": "ONE PIECE: Yume no Soccer Ou!",
+        "character": "Nami",
+        "gender": "Female"
+    },
+    {
+        "id": 62,
+        "anime": "ONE PIECE: Yume no Soccer Ou!",
+        "character": "Zoro Roronoa",
+        "gender": "Male"
+    },
+    {
+        "id": 305,
+        "anime": "ONE PIECE: Yume no Soccer Ou!",
+        "character": "Sanji",
+        "gender": "Male"
+    },
+    {
+        "id": 309,
+        "anime": "ONE PIECE: Yume no Soccer Ou!",
+        "character": "Chopper Tony Tony",
+        "gender": "Male"
+    },
+    {
+        "id": 17855,
+        "anime": "SPACE ADVENTURE Cobra",
+        "character": "Lady Armaroid",
+        "gender": null
+    },
+    {
+        "id": 9916,
+        "anime": "SPACE ADVENTURE Cobra",
+        "character": "Cobra",
+        "gender": null
+    },
+    {
+        "id": 33637,
+        "anime": "Mori no Densetsu",
+        "character": "Leo",
+        "gender": null
+    },
+    {
+        "id": 17,
+        "anime": "NARUTO: Shippuuden Movie",
+        "character": "Naruto Uzumaki",
+        "gender": "Male"
+    },
+    {
+        "id": 85,
+        "anime": "NARUTO: Shippuuden Movie",
+        "character": "Kakashi Hatake",
+        "gender": "Male"
+    },
+    {
+        "id": 306,
+        "anime": "NARUTO: Shippuuden Movie",
+        "character": "Rock Lee",
+        "gender": "Male"
+    },
+    {
+        "id": 12022,
+        "anime": "NARUTO: Shippuuden Movie",
+        "character": "Shion",
+        "gender": "Female"
+    },
+    {
+        "id": 1694,
+        "anime": "NARUTO: Shippuuden Movie",
+        "character": "Neji Hyuuga",
+        "gender": "Male"
+    },
+    {
+        "id": 145,
+        "anime": "NARUTO: Shippuuden Movie",
+        "character": "Sakura Haruno",
+        "gender": "Female"
+    },
+    {
+        "id": 61,
+        "anime": "ONE PIECE: Mezase! Kaizoku Yakyuu Ou",
+        "character": "Robin Nico",
+        "gender": "Female"
+    },
+    {
+        "id": 62,
+        "anime": "ONE PIECE: Mezase! Kaizoku Yakyuu Ou",
+        "character": "Zoro Roronoa",
+        "gender": "Male"
+    },
+    {
+        "id": 723,
+        "anime": "ONE PIECE: Mezase! Kaizoku Yakyuu Ou",
+        "character": "Nami",
+        "gender": "Female"
+    },
+    {
+        "id": 40,
+        "anime": "ONE PIECE: Mezase! Kaizoku Yakyuu Ou",
+        "character": "Luffy Monkey",
+        "gender": "Male"
+    },
+    {
+        "id": 309,
+        "anime": "ONE PIECE: Mezase! Kaizoku Yakyuu Ou",
+        "character": "Chopper Tony Tony",
+        "gender": "Male"
+    },
+    {
+        "id": 724,
+        "anime": "ONE PIECE: Mezase! Kaizoku Yakyuu Ou",
+        "character": "Usopp",
+        "gender": "Male"
+    },
+    {
+        "id": 305,
+        "anime": "ONE PIECE: Mezase! Kaizoku Yakyuu Ou",
+        "character": "Sanji",
+        "gender": "Male"
+    },
+    {
+        "id": 311,
+        "anime": "SLAM DUNK: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi",
+        "character": "Kaede Rukawa",
+        "gender": "Male"
+    },
+    {
+        "id": 310,
+        "anime": "SLAM DUNK: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi",
+        "character": "Hanamichi Sakuragi",
+        "gender": "Male"
+    },
+    {
+        "id": 314,
+        "anime": "SLAM DUNK: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi",
+        "character": "Takenori Akagi",
+        "gender": "Male"
+    },
+    {
+        "id": 312,
+        "anime": "SLAM DUNK: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi",
+        "character": "Ryouta Miyagi",
+        "gender": "Male"
+    },
+    {
+        "id": 311,
+        "anime": "SLAM DUNK: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu",
+        "character": "Kaede Rukawa",
+        "gender": "Male"
+    },
+    {
+        "id": 310,
+        "anime": "SLAM DUNK: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu",
+        "character": "Hanamichi Sakuragi",
+        "gender": "Male"
+    },
+    {
+        "id": 312,
+        "anime": "SLAM DUNK: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu",
+        "character": "Ryouta Miyagi",
+        "gender": "Male"
+    },
+    {
+        "id": 65641,
+        "anime": "SLAM DUNK: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu",
+        "character": "Ichiro Mizusawa",
+        "gender": null
+    },
+    {
+        "id": 5267,
+        "anime": "Kara no Kyoukai: Fukan Fuukei",
+        "character": "Mikiya Kokutou",
+        "gender": "Male"
+    },
+    {
+        "id": 5266,
+        "anime": "Kara no Kyoukai: Fukan Fuukei",
+        "character": "Touko Aozaki",
+        "gender": "Female"
+    },
+    {
+        "id": 7260,
+        "anime": "Kara no Kyoukai: Fukan Fuukei",
+        "character": "Kirie Fujyou",
+        "gender": "Female"
+    },
+    {
+        "id": 3105,
+        "anime": "Kara no Kyoukai: Fukan Fuukei",
+        "character": "Shiki Ryougi",
+        "gender": "Female"
+    },
+    {
+        "id": 65219,
+        "anime": "Panda Kopanda",
+        "character": "Mimiko",
+        "gender": "Female"
+    },
+    {
+        "id": 65223,
+        "anime": "Panda Kopanda",
+        "character": "Papanda",
+        "gender": null
+    },
+    {
+        "id": 65225,
+        "anime": "Panda Kopanda",
+        "character": "Pan-chan",
+        "gender": null
+    },
+    {
+        "id": 5366,
+        "anime": "Natsu e no Tobira",
+        "character": "Jack Sydow",
+        "gender": "Male"
+    },
+    {
+        "id": 5369,
+        "anime": "Natsu e no Tobira",
+        "character": "Lind Allen",
+        "gender": "Male"
+    },
+    {
+        "id": 5368,
+        "anime": "Natsu e no Tobira",
+        "character": "Claude",
+        "gender": "Male"
+    },
+    {
+        "id": 5367,
+        "anime": "Natsu e no Tobira",
+        "character": "Marion Fiesse",
+        "gender": "Male"
+    },
+    {
+        "id": 52591,
+        "anime": "Natsu e no Tobira",
+        "character": "Ledania Fran\u00e7ois",
+        "gender": "Female"
+    },
+    {
+        "id": 293971,
+        "anime": "The\u2606Doraemons: Kaitou Dorapin Nazo no Chousenjou!",
+        "character": "Dora Rinho",
+        "gender": "Male"
+    },
+    {
+        "id": 293972,
+        "anime": "The\u2606Doraemons: Kaitou Dorapin Nazo no Chousenjou!",
+        "character": "Dora Med III",
+        "gender": "Male"
+    },
+    {
+        "id": 357031,
+        "anime": "The\u2606Doraemons: Kaitou Dorapin Nazo no Chousenjou!",
+        "character": "Dorapan",
+        "gender": "Male"
+    },
+    {
+        "id": 293969,
+        "anime": "The\u2606Doraemons: Okashina Okashi na Okashinana?",
+        "character": "Wang Dora",
+        "gender": "Male"
+    },
+    {
+        "id": 293970,
+        "anime": "The\u2606Doraemons: Okashina Okashi na Okashinana?",
+        "character": "El Matadora",
+        "gender": "Male"
+    },
+    {
+        "id": 315879,
+        "anime": "The\u2606Doraemons: Okashina Okashi na Okashinana?",
+        "character": "Jaidora",
+        "gender": "Male"
+    },
+    {
+        "id": 293970,
+        "anime": "The\u2606Doraemons: Goal! Goal! Goal!!",
+        "character": "El Matadora",
+        "gender": "Male"
+    },
+    {
+        "id": 293968,
+        "anime": "The\u2606Doraemons: Goal! Goal! Goal!!",
+        "character": "Dora the Kid",
+        "gender": "Male"
+    },
+    {
+        "id": 293971,
+        "anime": "The\u2606Doraemons: Goal! Goal! Goal!!",
+        "character": "Dora Rinho",
+        "gender": "Male"
+    },
+    {
+        "id": 293972,
+        "anime": "The\u2606Doraemons: Goal! Goal! Goal!!",
+        "character": "Dora Med III",
+        "gender": "Male"
+    },
+    {
+        "id": 293969,
+        "anime": "The\u2606Doraemons: Goal! Goal! Goal!!",
+        "character": "Wang Dora",
+        "gender": "Male"
+    },
+    {
+        "id": 312576,
+        "anime": "The\u2606Doraemons: Goal! Goal! Goal!!",
+        "character": "Dora-nichov",
+        "gender": "Male"
+    },
+    {
+        "id": 4304,
+        "anime": "The\u2606Doraemons: Dokidoki Kikansha Daibakusou!",
+        "character": "Doraemon",
+        "gender": "Male"
+    },
+    {
+        "id": 293972,
+        "anime": "The\u2606Doraemons: Dokidoki Kikansha Daibakusou!",
+        "character": "Dora Med III",
+        "gender": "Male"
+    },
+    {
+        "id": 293969,
+        "anime": "The\u2606Doraemons: Dokidoki Kikansha Daibakusou!",
+        "character": "Wang Dora",
+        "gender": "Male"
+    },
+    {
+        "id": 293968,
+        "anime": "The\u2606Doraemons: Dokidoki Kikansha Daibakusou!",
+        "character": "Dora the Kid",
+        "gender": "Male"
+    },
+    {
+        "id": 293970,
+        "anime": "The\u2606Doraemons: Dokidoki Kikansha Daibakusou!",
+        "character": "El Matadora",
+        "gender": "Male"
+    },
+    {
+        "id": 293971,
+        "anime": "The\u2606Doraemons: Dokidoki Kikansha Daibakusou!",
+        "character": "Dora Rinho",
+        "gender": "Male"
+    },
+    {
+        "id": 312576,
+        "anime": "The\u2606Doraemons: Dokidoki Kikansha Daibakusou!",
+        "character": "Dora-nichov",
+        "gender": "Male"
+    },
+    {
+        "id": 61815,
+        "anime": "Dorami-chan: Arara Shounen Sanzoku-dan!",
+        "character": "Dorami",
+        "gender": "Female"
+    },
+    {
+        "id": 61815,
+        "anime": "Dorami & Doraemons: Space Land Kiki Ippatsu!",
+        "character": "Dorami",
+        "gender": "Female"
+    },
+    {
+        "id": 61815,
+        "anime": "Dorami & Doraemon: Robot Gakkou Nanafushigi?!",
+        "character": "Dorami",
+        "gender": "Female"
+    },
+    {
+        "id": 293968,
+        "anime": "Dorami & Doraemon: Robot Gakkou Nanafushigi?!",
+        "character": "Dora the Kid",
+        "gender": "Male"
+    },
+    {
+        "id": 4304,
+        "anime": "Doraemon: 2112-nen Doraemon Tanjou",
+        "character": "Doraemon",
+        "gender": "Male"
+    },
+    {
+        "id": 61815,
+        "anime": "Doraemon: 2112-nen Doraemon Tanjou",
+        "character": "Dorami",
+        "gender": "Female"
+    },
+    {
+        "id": 163720,
+        "anime": "Doraemon: 2112-nen Doraemon Tanjou",
+        "character": "Noramyako",
+        "gender": "Female"
+    },
+    {
+        "id": 163721,
+        "anime": "Doraemon: 2112-nen Doraemon Tanjou",
+        "character": "Kiiroi Doraemon",
+        "gender": null
+    },
+    {
+        "id": 4303,
+        "anime": "Doraemon: Obaachan no Omoide",
+        "character": "Nobita Nobi",
+        "gender": "Male"
+    },
+    {
+        "id": 4304,
+        "anime": "Doraemon: Obaachan no Omoide",
+        "character": "Doraemon",
+        "gender": "Male"
+    },
+    {
+        "id": 7372,
+        "anime": "UFO Robo Grendizer tai Great Mazinger",
+        "character": "Kouji Kabuto",
+        "gender": null
+    },
+    {
+        "id": 7368,
+        "anime": "UFO Robo Grendizer tai Great Mazinger",
+        "character": "Duke Fleed",
+        "gender": "Male"
+    },
+    {
+        "id": 24943,
+        "anime": "UFO Robo Grendizer tai Great Mazinger",
+        "character": "Tetsuya Tsurugi",
+        "gender": null
+    },
+    {
+        "id": 218503,
+        "anime": "Shin SOS Dai Tokyo Tankentai",
+        "character": "Satoshi Ozaki",
+        "gender": null
+    },
+    {
+        "id": 218502,
+        "anime": "Shin SOS Dai Tokyo Tankentai",
+        "character": "Ryuuhei Ozaki",
+        "gender": null
+    },
+    {
+        "id": 218504,
+        "anime": "Shin SOS Dai Tokyo Tankentai",
+        "character": "Yoshio Ookido",
+        "gender": null
+    },
+    {
+        "id": 218505,
+        "anime": "Shin SOS Dai Tokyo Tankentai",
+        "character": "Toshi Sakuragi",
+        "gender": null
+    },
+    {
+        "id": 28695,
+        "anime": "Hashire Melos (Movie)",
+        "character": "Melos",
+        "gender": null
+    },
+    {
+        "id": 3891,
+        "anime": "Odoru Pok\u00e9mon Himitsu Kichi",
+        "character": "Pikachu",
+        "gender": null
+    },
+    {
+        "id": 3937,
+        "anime": "Odoru Pok\u00e9mon Himitsu Kichi",
+        "character": "Nyarth",
+        "gender": "Male"
+    },
+    {
+        "id": 46559,
+        "anime": "Tottoi",
+        "character": "Antonio",
+        "gender": null
+    },
+    {
+        "id": 22809,
+        "anime": "Summer Wars",
+        "character": "Natsuki Shinohara",
+        "gender": "Female"
+    },
+    {
+        "id": 22808,
+        "anime": "Summer Wars",
+        "character": "Kenji Koiso",
+        "gender": "Male"
+    },
+    {
+        "id": 22812,
+        "anime": "Summer Wars",
+        "character": "Wabisuke Jinnouchi",
+        "gender": "Male"
+    },
+    {
+        "id": 22811,
+        "anime": "Summer Wars",
+        "character": "Kazuma Ikezawa",
+        "gender": "Male"
+    },
+    {
+        "id": 22810,
+        "anime": "Summer Wars",
+        "character": "Sakae Jinnouchi",
+        "gender": "Female"
+    },
+    {
+        "id": 31175,
+        "anime": "Hottarake no Shima: Haruka to Mahou no Kagami",
+        "character": "Teo",
+        "gender": null
+    },
+    {
+        "id": 36038,
+        "anime": "Hottarake no Shima: Haruka to Mahou no Kagami",
+        "character": "Cotton",
+        "gender": null
+    },
+    {
+        "id": 31174,
+        "anime": "Hottarake no Shima: Haruka to Mahou no Kagami",
+        "character": "Haruka",
+        "gender": null
+    },
+    {
+        "id": 14843,
+        "anime": "Azuki-chan: White Valentine \u2665 Koi no Chance ga Yatte Kita!!",
+        "character": "Azusa Noyama",
+        "gender": "Female"
+    },
+    {
+        "id": 26620,
+        "anime": "Azuki-chan: White Valentine \u2665 Koi no Chance ga Yatte Kita!!",
+        "character": "Yuunosuke Ogasawara",
+        "gender": "Male"
+    },
+    {
+        "id": 38350,
+        "anime": "Buddha Saitan",
+        "character": "Sayako Amanokawa",
+        "gender": "Female"
+    },
+    {
+        "id": 41275,
+        "anime": "Buddha Saitan",
+        "character": "Taiyou Sorano",
+        "gender": "Male"
+    },
+    {
+        "id": 41276,
+        "anime": "Buddha Saitan",
+        "character": "Yuuki Unabara",
+        "gender": "Male"
+    },
+    {
+        "id": 8261,
+        "anime": "Doraemon: Nobita no Ningyo Daikaisen",
+        "character": "Suneo Honekawa",
+        "gender": "Male"
+    },
+    {
+        "id": 42715,
+        "anime": "Doraemon: Nobita no Ningyo Daikaisen",
+        "character": "Sophia",
+        "gender": null
+    },
+    {
+        "id": 8260,
+        "anime": "Doraemon: Nobita no Ningyo Daikaisen",
+        "character": "Shizuka Minamoto",
+        "gender": "Female"
+    },
+    {
+        "id": 4304,
+        "anime": "Doraemon: Nobita no Ningyo Daikaisen",
+        "character": "Doraemon",
+        "gender": "Male"
+    },
+    {
+        "id": 8262,
+        "anime": "Doraemon: Nobita no Ningyo Daikaisen",
+        "character": "Takeshi Gouda",
+        "gender": "Male"
+    },
+    {
+        "id": 4303,
+        "anime": "Doraemon: Nobita no Ningyo Daikaisen",
+        "character": "Nobita Nobi",
+        "gender": "Male"
+    },
+    {
+        "id": 62161,
+        "anime": "Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku",
+        "character": "Chapra",
+        "gender": null
+    },
+    {
+        "id": 62163,
+        "anime": "Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku",
+        "character": "Siddhartha",
+        "gender": null
+    },
+    {
+        "id": 993,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Makie Sasaki",
+        "gender": "Female"
+    },
+    {
+        "id": 981,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Konoka Konoe",
+        "gender": "Female"
+    },
+    {
+        "id": 744,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Setsuna Sakurazaki",
+        "gender": "Female"
+    },
+    {
+        "id": 954,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Nodoka Miyazaki",
+        "gender": "Female"
+    },
+    {
+        "id": 1000,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Chao Lingshen",
+        "gender": null
+    },
+    {
+        "id": 996,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Ayaka Yukihiro",
+        "gender": "Female"
+    },
+    {
+        "id": 953,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Evangeline Athanasia Katherine McDowell",
+        "gender": "Female"
+    },
+    {
+        "id": 989,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Misa Kakizaki",
+        "gender": "Female"
+    },
+    {
+        "id": 984,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Chachamaru Karakuri",
+        "gender": "Female"
+    },
+    {
+        "id": 1003,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Satomi Hakase",
+        "gender": "Female"
+    },
+    {
+        "id": 991,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Yue Ayase",
+        "gender": "Female"
+    },
+    {
+        "id": 985,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Haruna Saotome",
+        "gender": "Female"
+    },
+    {
+        "id": 952,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Chisame Hasegawa",
+        "gender": "Female"
+    },
+    {
+        "id": 998,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Fuuka Narutaki",
+        "gender": "Female"
+    },
+    {
+        "id": 679,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Asuna Kagurazaka",
+        "gender": "Female"
+    },
+    {
+        "id": 146,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Negi Springfield",
+        "gender": "Male"
+    },
+    {
+        "id": 1002,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Zazie Rainyday",
+        "gender": "Female"
+    },
+    {
+        "id": 983,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Sayo Aisaka",
+        "gender": "Female"
+    },
+    {
+        "id": 951,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Kaede Nagase",
+        "gender": "Female"
+    },
+    {
+        "id": 1004,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Natsumi Murakami",
+        "gender": "Female"
+    },
+    {
+        "id": 987,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Yuuna Akashi",
+        "gender": "Female"
+    },
+    {
+        "id": 992,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Ku Fei",
+        "gender": "Female"
+    },
+    {
+        "id": 1001,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Fumika Narutaki",
+        "gender": null
+    },
+    {
+        "id": 988,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Kazumi Asakura",
+        "gender": "Female"
+    },
+    {
+        "id": 980,
+        "anime": "Mahou Sensei Negima! ANIME FINAL",
+        "character": "Misora Kasuga",
+        "gender": "Female"
+    },
+    {
+        "id": 27233,
+        "anime": "Arei no Kagami: Way to the Virgin Space",
+        "character": "Zero",
+        "gender": null
+    },
+    {
+        "id": 27232,
+        "anime": "Arei no Kagami: Way to the Virgin Space",
+        "character": "Mayu",
+        "gender": null
+    },
+    {
+        "id": 27231,
+        "anime": "Arei no Kagami: Way to the Virgin Space",
+        "character": "Meguru",
+        "gender": null
+    },
+    {
+        "id": 27304,
+        "anime": "Ibara-Hime mata wa Nemuri-Hime",
+        "character": "Sleeping Beauty",
+        "gender": null
+    },
+    {
+        "id": 252,
+        "anime": "Suzumiya Haruhi no Shoushitsu",
+        "character": "Kyon",
+        "gender": "Male"
+    },
+    {
+        "id": 249,
+        "anime": "Suzumiya Haruhi no Shoushitsu",
+        "character": "Yuki Nagato",
+        "gender": "Female"
+    },
+    {
+        "id": 87351,
+        "anime": "5-tou ni Naritai.",
+        "character": "Ritsuko  Hanauchi",
+        "gender": "Female"
+    },
+    {
+        "id": 83857,
+        "anime": "Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors",
+        "character": "Kan-u Gundam",
+        "gender": null
+    },
+    {
+        "id": 1245,
+        "anime": "Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de arimasu!!",
+        "character": "Keroro",
+        "gender": "Male"
+    },
+    {
+        "id": 1248,
+        "anime": "Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de arimasu!!",
+        "character": "Kururu",
+        "gender": "Male"
+    },
+    {
+        "id": 42646,
+        "anime": "Colorful",
+        "character": "Makoto Kobayashi",
+        "gender": "Male"
+    },
+    {
+        "id": 7812,
+        "anime": "Gegege no Kitarou: Obake Nighter",
+        "character": "Kitarou",
+        "gender": "Male"
+    },
+    {
+        "id": 3018,
+        "anime": "Jigoku Sensei Nube (Movie)",
+        "character": "Meisuke Nueno",
+        "gender": "Male"
+    },
+    {
+        "id": 40781,
+        "anime": "Jigoku Sensei Nube (Movie)",
+        "character": "Kumiko Ijima",
+        "gender": null
+    },
+    {
+        "id": 8327,
+        "anime": "Jigoku Sensei Nube (Movie)",
+        "character": "Kyouko Inaba",
+        "gender": "Female"
+    },
+    {
+        "id": 3018,
+        "anime": "Jigoku Sensei Nube: Gozen 0-toki Nube Shisu",
+        "character": "Meisuke Nueno",
+        "gender": "Male"
+    },
+    {
+        "id": 5855,
+        "anime": "Jigoku Sensei Nube: Gozen 0-toki Nube Shisu",
+        "character": "Hiroshi Tateno",
+        "gender": "Male"
+    },
+    {
+        "id": 8327,
+        "anime": "Jigoku Sensei Nube: Gozen 0-toki Nube Shisu",
+        "character": "Kyouko Inaba",
+        "gender": "Female"
+    },
+    {
+        "id": 8328,
+        "anime": "Jigoku Sensei Nube: Gozen 0-toki Nube Shisu",
+        "character": "Miki Hosokawa",
+        "gender": "Female"
+    },
+    {
+        "id": 369971,
+        "anime": "Jigoku Sensei Nube: Gozen 0-toki Nube Shisu",
+        "character": "Jun Kagami",
+        "gender": "Male"
+    },
+    {
+        "id": 31410,
+        "anime": "Planzet",
+        "character": "Taishi Akejima",
+        "gender": null
+    },
+    {
+        "id": 31411,
+        "anime": "Planzet",
+        "character": "Koyomi Akejima",
+        "gender": null
+    },
+    {
+        "id": 2951,
+        "anime": "Crayon Shin-chan: Action Kamen vs. Haigure Maou",
+        "character": "Shinnosuke Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 33466,
+        "anime": "Crayon Shin-chan: Action Kamen vs. Haigure Maou",
+        "character": "Hiroshi Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 7854,
+        "anime": "Crayon Shin-chan: Action Kamen vs. Haigure Maou",
+        "character": "Misae Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 7858,
+        "anime": "Crayon Shin-chan: Action Kamen vs. Haigure Maou",
+        "character": "Action Kamen",
+        "gender": "Male"
+    },
+    {
+        "id": 33466,
+        "anime": "Crayon Shin-chan: Dengeki! Buta no Hizume Daisakusen",
+        "character": "Hiroshi Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 33701,
+        "anime": "Crayon Shin-chan: Dengeki! Buta no Hizume Daisakusen",
+        "character": "BuriBuri Zaemon",
+        "gender": null
+    },
+    {
+        "id": 2951,
+        "anime": "Crayon Shin-chan: Dengeki! Buta no Hizume Daisakusen",
+        "character": "Shinnosuke Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 7854,
+        "anime": "Crayon Shin-chan: Dengeki! Buta no Hizume Daisakusen",
+        "character": "Misae Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 33466,
+        "anime": "Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen",
+        "character": "Hiroshi Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 2951,
+        "anime": "Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen",
+        "character": "Shinnosuke Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 33701,
+        "anime": "Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen",
+        "character": "BuriBuri Zaemon",
+        "gender": null
+    },
+    {
+        "id": 7855,
+        "anime": "Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen",
+        "character": "Himawari Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 7854,
+        "anime": "Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen",
+        "character": "Misae Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 33466,
+        "anime": "Crayon Shin-chan: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
+        "character": "Hiroshi Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 7854,
+        "anime": "Crayon Shin-chan: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
+        "character": "Misae Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 7855,
+        "anime": "Crayon Shin-chan: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
+        "character": "Himawari Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 2951,
+        "anime": "Crayon Shin-chan: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
+        "character": "Shinnosuke Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 33466,
+        "anime": "Crayon Shin-chan: Densetsu wo Yobu Odore! Amigo!",
+        "character": "Hiroshi Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 7855,
+        "anime": "Crayon Shin-chan: Densetsu wo Yobu Odore! Amigo!",
+        "character": "Himawari Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 7854,
+        "anime": "Crayon Shin-chan: Densetsu wo Yobu Odore! Amigo!",
+        "character": "Misae Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 2951,
+        "anime": "Crayon Shin-chan: Densetsu wo Yobu Odore! Amigo!",
+        "character": "Shinnosuke Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 33466,
+        "anime": "Crayon Shin-chan: Chou Arashi wo Yobu Kinpoko no Yuusha",
+        "character": "Hiroshi Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 7854,
+        "anime": "Crayon Shin-chan: Chou Arashi wo Yobu Kinpoko no Yuusha",
+        "character": "Misae Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 2951,
+        "anime": "Crayon Shin-chan: Chou Arashi wo Yobu Kinpoko no Yuusha",
+        "character": "Shinnosuke Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 7855,
+        "anime": "Crayon Shin-chan: Chou Arashi wo Yobu Kinpoko no Yuusha",
+        "character": "Himawari Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 33466,
+        "anime": "Crayon Shin-chan: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+        "character": "Hiroshi Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 2951,
+        "anime": "Crayon Shin-chan: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+        "character": "Shinnosuke Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 7855,
+        "anime": "Crayon Shin-chan: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+        "character": "Himawari Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 7854,
+        "anime": "Crayon Shin-chan: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+        "character": "Misae Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 174408,
+        "anime": "Makoto-chan",
+        "character": "Makoto Sawada",
+        "gender": "Male"
+    },
+    {
+        "id": 174410,
+        "anime": "Makoto-chan",
+        "character": "Mika Sawada",
+        "gender": "Female"
+    },
+    {
+        "id": 174412,
+        "anime": "Makoto-chan",
+        "character": "Mama",
+        "gender": "Female"
+    },
+    {
+        "id": 174415,
+        "anime": "Makoto-chan",
+        "character": "Papa",
+        "gender": "Male"
+    },
+    {
+        "id": 86857,
+        "anime": "Rakuen Tsuihou: Expelled From Paradise",
+        "character": "Angela Balzac",
+        "gender": "Female"
+    },
+    {
+        "id": 142926,
+        "anime": "Rakuen Tsuihou: Expelled From Paradise",
+        "character": "Frontier Setter",
+        "gender": null
+    },
+    {
+        "id": 142928,
+        "anime": "Rakuen Tsuihou: Expelled From Paradise",
+        "character": "Zarik Kajiwara",
+        "gender": null
+    },
+    {
+        "id": 159552,
+        "anime": "Utsu Musume Sayuri",
+        "character": "Sayuri",
+        "gender": null
+    },
+    {
+        "id": 227336,
+        "anime": "Cofun Gal no Coffy ~Cofunderella~",
+        "character": "Coffy",
+        "gender": "Female"
+    },
+    {
+        "id": 2535,
+        "anime": "ROAD TO NINJA: NARUTO THE MOVIE",
+        "character": "Minato Namikaze",
+        "gender": "Male"
+    },
+    {
+        "id": 17,
+        "anime": "ROAD TO NINJA: NARUTO THE MOVIE",
+        "character": "Naruto Uzumaki",
+        "gender": "Male"
+    },
+    {
+        "id": 145,
+        "anime": "ROAD TO NINJA: NARUTO THE MOVIE",
+        "character": "Sakura Haruno",
+        "gender": "Female"
+    },
+    {
+        "id": 7302,
+        "anime": "ROAD TO NINJA: NARUTO THE MOVIE",
+        "character": "Kushina Uzumaki",
+        "gender": "Female"
+    },
+    {
+        "id": 40594,
+        "anime": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+        "character": "Atsumu Matsuyuki",
+        "gender": null
+    },
+    {
+        "id": 40591,
+        "anime": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+        "character": "Jinta Yadomi",
+        "gender": "Male"
+    },
+    {
+        "id": 40595,
+        "anime": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+        "character": "Chiriko Tsurumi",
+        "gender": null
+    },
+    {
+        "id": 40593,
+        "anime": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+        "character": "Naruko Anjou",
+        "gender": "Female"
+    },
+    {
+        "id": 40596,
+        "anime": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+        "character": "Tetsudo Hisakawa",
+        "gender": null
+    },
+    {
+        "id": 40592,
+        "anime": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+        "character": "Meiko Honma",
+        "gender": "Female"
+    },
+    {
+        "id": 41961,
+        "anime": "Inazuma Eleven GO vs Danball Senki W",
+        "character": "Takuto Shindou",
+        "gender": null
+    },
+    {
+        "id": 41766,
+        "anime": "Inazuma Eleven GO vs Danball Senki W",
+        "character": "Tenma Matsukaze",
+        "gender": "Male"
+    },
+    {
+        "id": 41960,
+        "anime": "Inazuma Eleven GO vs Danball Senki W",
+        "character": "Kyousuke Tsurugi",
+        "gender": null
+    },
+    {
+        "id": 55449,
+        "anime": "Inazuma Eleven GO vs Danball Senki W",
+        "character": "Ran Hanasaki",
+        "gender": null
+    },
+    {
+        "id": 55433,
+        "anime": "Inazuma Eleven GO vs Danball Senki W",
+        "character": "Hiro Oozora",
+        "gender": null
+    },
+    {
+        "id": 42545,
+        "anime": "Inazuma Eleven GO vs Danball Senki W",
+        "character": "Ban Yamano",
+        "gender": null
+    },
+    {
+        "id": 134683,
+        "anime": "Penguin's Memory: Shiawase Monogatari",
+        "character": "Jill",
+        "gender": "Female"
+    },
+    {
+        "id": 134684,
+        "anime": "Penguin's Memory: Shiawase Monogatari",
+        "character": "Bob Adams",
+        "gender": null
+    },
+    {
+        "id": 134688,
+        "anime": "Penguin's Memory: Shiawase Monogatari",
+        "character": "Jack",
+        "gender": null
+    },
+    {
+        "id": 134685,
+        "anime": "Penguin's Memory: Shiawase Monogatari",
+        "character": "Mike Davis",
+        "gender": "Male"
+    },
+    {
+        "id": 78679,
+        "anime": "Hal",
+        "character": "Hal",
+        "gender": null
+    },
+    {
+        "id": 78677,
+        "anime": "Hal",
+        "character": "Kurumi",
+        "gender": null
+    },
+    {
+        "id": 89885,
+        "anime": "Kaguya-hime no Monogatari",
+        "character": "Kaguya-hime",
+        "gender": "Female"
+    },
+    {
+        "id": 35525,
+        "anime": "Pocket Monsters Best Wishes! Shinsoku no Genesect: Mewtwo Kakusei",
+        "character": "Dent",
+        "gender": null
+    },
+    {
+        "id": 3891,
+        "anime": "Pocket Monsters Best Wishes! Shinsoku no Genesect: Mewtwo Kakusei",
+        "character": "Pikachu",
+        "gender": null
+    },
+    {
+        "id": 2473,
+        "anime": "Pocket Monsters Best Wishes! Shinsoku no Genesect: Mewtwo Kakusei",
+        "character": "Satoshi",
+        "gender": "Male"
+    },
+    {
+        "id": 35524,
+        "anime": "Pocket Monsters Best Wishes! Shinsoku no Genesect: Mewtwo Kakusei",
+        "character": "Iris",
+        "gender": "Female"
+    },
+    {
+        "id": 79463,
+        "anime": "Kotonoha no Niwa",
+        "character": "Takao Akizuki",
+        "gender": "Male"
+    },
+    {
+        "id": 79465,
+        "anime": "Kotonoha no Niwa",
+        "character": "Yukari Yukino",
+        "gender": "Female"
+    },
+    {
+        "id": 55171,
+        "anime": "Uchuu Kyoudai #0",
+        "character": "Mutta Nanba",
+        "gender": "Male"
+    },
+    {
+        "id": 55169,
+        "anime": "Uchuu Kyoudai #0",
+        "character": "Hibito Nanba",
+        "gender": "Male"
+    },
+    {
+        "id": 288140,
+        "anime": "APO APO World: Giant Baba 90-bun 1-hon Shoubu",
+        "character": "Baba Baba",
+        "gender": "Male"
+    },
+    {
+        "id": 211914,
+        "anime": "Kaibutsu-kun: Demon no Ken",
+        "character": "Tarou Kaibutsu",
+        "gender": null
+    },
+    {
+        "id": 307843,
+        "anime": "Futari no Ouji-sama",
+        "character": "Subarna",
+        "gender": null
+    },
+    {
+        "id": 307844,
+        "anime": "Futari no Ouji-sama",
+        "character": "Rupia",
+        "gender": null
+    },
+    {
+        "id": 208654,
+        "anime": "Bunna yo Ki kara Oritekoi",
+        "character": "Bunna",
+        "gender": null
+    },
+    {
+        "id": 155850,
+        "anime": "Kappa Kawatarou",
+        "character": "Kawatarou",
+        "gender": null
+    },
+    {
+        "id": 3043,
+        "anime": "Glass no Chikyuu o Sukue Unico Tokubetsu-hen",
+        "character": "Unico",
+        "gender": null
+    },
+    {
+        "id": 129071,
+        "anime": "Glass no Chikyuu o Sukue Unico Tokubetsu-hen",
+        "character": "Tsubasa",
+        "gender": null
+    },
+    {
+        "id": 129069,
+        "anime": "Glass no Chikyuu o Sukue Unico Tokubetsu-hen",
+        "character": "Nishikaze",
+        "gender": null
+    },
+    {
+        "id": 46494,
+        "anime": "Shingeki no Kyojin Kouhen: Jiyuu no Tsubasa",
+        "character": "Armin Arlert",
+        "gender": "Male"
+    },
+    {
+        "id": 40882,
+        "anime": "Shingeki no Kyojin Kouhen: Jiyuu no Tsubasa",
+        "character": "Eren Yeager",
+        "gender": "Male"
+    },
+    {
+        "id": 40881,
+        "anime": "Shingeki no Kyojin Kouhen: Jiyuu no Tsubasa",
+        "character": "Mikasa Ackerman",
+        "gender": "Female"
+    },
+    {
+        "id": 39412,
+        "anime": "Code Geass: Boukoku no Akito Saishuushou - Itoshiki Mono-tachi e",
+        "character": "Leila Malcal",
+        "gender": "Female"
+    },
+    {
+        "id": 39411,
+        "anime": "Code Geass: Boukoku no Akito Saishuushou - Itoshiki Mono-tachi e",
+        "character": "Akito Hyuuga",
+        "gender": "Male"
+    },
+    {
+        "id": 19086,
+        "anime": "GAMBA: Gamba to Nakama-tachi",
+        "character": "Gamba",
+        "gender": null
+    },
+    {
+        "id": 19087,
+        "anime": "GAMBA: Gamba to Nakama-tachi",
+        "character": "Noroi",
+        "gender": null
+    },
+    {
+        "id": 162470,
+        "anime": "GAMBA: Gamba to Nakama-tachi",
+        "character": "Shioji",
+        "gender": null
+    },
+    {
+        "id": 162471,
+        "anime": "GAMBA: Gamba to Nakama-tachi",
+        "character": "Mampuku",
+        "gender": null
+    },
+    {
+        "id": 5187,
+        "anime": "FAIRY TAIL: DRAGON CRY",
+        "character": "Natsu Dragneel",
+        "gender": "Male"
+    },
+    {
+        "id": 5186,
+        "anime": "FAIRY TAIL: DRAGON CRY",
+        "character": "Lucy Heartfilia",
+        "gender": "Female"
+    },
+    {
+        "id": 5188,
+        "anime": "FAIRY TAIL: DRAGON CRY",
+        "character": "Happy",
+        "gender": "Male"
+    },
+    {
+        "id": 4839,
+        "anime": "FAIRY TAIL: DRAGON CRY",
+        "character": "Gray Fullbuster",
+        "gender": "Male"
+    },
+    {
+        "id": 28886,
+        "anime": "FAIRY TAIL: DRAGON CRY",
+        "character": "Wendy Marvell",
+        "gender": "Female"
+    },
+    {
+        "id": 5189,
+        "anime": "FAIRY TAIL: DRAGON CRY",
+        "character": "Erza Scarlet",
+        "gender": "Female"
+    },
+    {
+        "id": 229702,
+        "anime": "FAIRY TAIL: DRAGON CRY",
+        "character": "Sonya",
+        "gender": "Female"
+    },
+    {
+        "id": 22723,
+        "anime": "FAIRY TAIL: DRAGON CRY",
+        "character": "Charl\u00e9s",
+        "gender": "Female"
+    },
+    {
+        "id": 2473,
+        "anime": "Pok\u00e9mon The Movie XY&Z: Volcanion to Karakuri no Magearna",
+        "character": "Satoshi",
+        "gender": "Male"
+    },
+    {
+        "id": 3891,
+        "anime": "Pok\u00e9mon The Movie XY&Z: Volcanion to Karakuri no Magearna",
+        "character": "Pikachu",
+        "gender": null
+    },
+    {
+        "id": 87633,
+        "anime": "Pok\u00e9mon The Movie XY&Z: Volcanion to Karakuri no Magearna",
+        "character": "Citron",
+        "gender": null
+    },
+    {
+        "id": 87634,
+        "anime": "Pok\u00e9mon The Movie XY&Z: Volcanion to Karakuri no Magearna",
+        "character": "Eureka ",
+        "gender": null
+    },
+    {
+        "id": 87632,
+        "anime": "Pok\u00e9mon The Movie XY&Z: Volcanion to Karakuri no Magearna",
+        "character": "Serena",
+        "gender": "Female"
+    },
+    {
+        "id": 221805,
+        "anime": "Pok\u00e9mon The Movie XY&Z: Volcanion to Karakuri no Magearna",
+        "character": "Kimia",
+        "gender": "Female"
+    },
+    {
+        "id": 221807,
+        "anime": "Pok\u00e9mon The Movie XY&Z: Volcanion to Karakuri no Magearna",
+        "character": "Volcanion",
+        "gender": null
+    },
+    {
+        "id": 224929,
+        "anime": "Pok\u00e9mon The Movie XY&Z: Volcanion to Karakuri no Magearna",
+        "character": "Magearna",
+        "gender": null
+    },
+    {
+        "id": 133669,
+        "anime": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai",
+        "character": "Akari Hayasaka",
+        "gender": "Female"
+    },
+    {
+        "id": 133671,
+        "anime": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai",
+        "character": "Yuu Setoguchi",
+        "gender": "Male"
+    },
+    {
+        "id": 133667,
+        "anime": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai",
+        "character": "Haruki Serizawa",
+        "gender": "Male"
+    },
+    {
+        "id": 133673,
+        "anime": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai",
+        "character": "Natsuki Enomoto",
+        "gender": "Female"
+    },
+    {
+        "id": 133668,
+        "anime": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai",
+        "character": "Miou Aida",
+        "gender": "Female"
+    },
+    {
+        "id": 133672,
+        "anime": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai",
+        "character": "Souta Mochizuki",
+        "gender": "Male"
+    },
+    {
+        "id": 62947,
+        "anime": "Girls und Panzer: Saishuushou 1",
+        "character": "Mako Reizei",
+        "gender": "Female"
+    },
+    {
+        "id": 62939,
+        "anime": "Girls und Panzer: Saishuushou 1",
+        "character": "Miho Nishizumi",
+        "gender": "Female"
+    },
+    {
+        "id": 62941,
+        "anime": "Girls und Panzer: Saishuushou 1",
+        "character": "Saori Takebe",
+        "gender": "Female"
+    },
+    {
+        "id": 62945,
+        "anime": "Girls und Panzer: Saishuushou 1",
+        "character": "Yukari Akiyama",
+        "gender": "Female"
+    },
+    {
+        "id": 62943,
+        "anime": "Girls und Panzer: Saishuushou 1",
+        "character": "Hana Isuzu",
+        "gender": "Female"
+    },
+    {
+        "id": 65271,
+        "anime": "Girls und Panzer: Saishuushou 1",
+        "character": "Momo Kawashima",
+        "gender": "Female"
+    },
+    {
+        "id": 126897,
+        "anime": "KING OF PRISM: PRIDE the HERO",
+        "character": "Louis Kisaragi",
+        "gender": "Male"
+    },
+    {
+        "id": 126905,
+        "anime": "KING OF PRISM: PRIDE the HERO",
+        "character": "Shin Ichijou",
+        "gender": "Male"
+    },
+    {
+        "id": 126906,
+        "anime": "KING OF PRISM: PRIDE the HERO",
+        "character": "Kouji Mihama",
+        "gender": "Male"
+    },
+    {
+        "id": 126907,
+        "anime": "KING OF PRISM: PRIDE the HERO",
+        "character": "Kazuki Nishina",
+        "gender": "Male"
+    },
+    {
+        "id": 126908,
+        "anime": "KING OF PRISM: PRIDE the HERO",
+        "character": "Hiro Hayami",
+        "gender": "Male"
+    },
+    {
+        "id": 207690,
+        "anime": "COCOLORS",
+        "character": "Aki",
+        "gender": null
+    },
+    {
+        "id": 207691,
+        "anime": "COCOLORS",
+        "character": "Fuyu",
+        "gender": null
+    },
+    {
+        "id": 2951,
+        "anime": "Crayon Shin-chan: Shuurai!! Uchuujin Shiriri",
+        "character": "Shinnosuke Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 33466,
+        "anime": "Crayon Shin-chan: Shuurai!! Uchuujin Shiriri",
+        "character": "Hiroshi Nohara",
+        "gender": "Male"
+    },
+    {
+        "id": 7855,
+        "anime": "Crayon Shin-chan: Shuurai!! Uchuujin Shiriri",
+        "character": "Himawari Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 7854,
+        "anime": "Crayon Shin-chan: Shuurai!! Uchuujin Shiriri",
+        "character": "Misae Nohara",
+        "gender": "Female"
+    },
+    {
+        "id": 4950,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Agumon",
+        "gender": null
+    },
+    {
+        "id": 9952,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Gabumon",
+        "gender": null
+    },
+    {
+        "id": 5977,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Gomamon",
+        "gender": null
+    },
+    {
+        "id": 1909,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Yamato Ishida",
+        "gender": null
+    },
+    {
+        "id": 2277,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Koushirou Izumi",
+        "gender": "Male"
+    },
+    {
+        "id": 2812,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Jou Kido",
+        "gender": null
+    },
+    {
+        "id": 89274,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Meiko Mochizuki",
+        "gender": null
+    },
+    {
+        "id": 9951,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Palmon",
+        "gender": null
+    },
+    {
+        "id": 9950,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Patamon",
+        "gender": null
+    },
+    {
+        "id": 9949,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Piyomon",
+        "gender": null
+    },
+    {
+        "id": 2278,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Mimi Tachikawa",
+        "gender": "Female"
+    },
+    {
+        "id": 9954,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Tailmon",
+        "gender": null
+    },
+    {
+        "id": 1961,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Takeru Takaishi",
+        "gender": null
+    },
+    {
+        "id": 2276,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Sora Takenouchi",
+        "gender": null
+    },
+    {
+        "id": 9953,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Tentomon",
+        "gender": null
+    },
+    {
+        "id": 1907,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Taichi Yagami",
+        "gender": null
+    },
+    {
+        "id": 1963,
+        "anime": "Digimon Adventure tri. 4: Soushitsu",
+        "character": "Hikari Yagami",
+        "gender": null
+    },
+    {
+        "id": 88641,
+        "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku",
+        "character": "Sonoko Nogi",
+        "gender": "Female"
+    },
+    {
+        "id": 88637,
+        "anime": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku",
+        "character": "Mimori Tougou",
+        "gender": "Female"
+    },
+    {
+        "id": 177138,
+        "anime": "The Snack World: Hitogirai no Lenny",
+        "character": "Chup",
+        "gender": null
+    },
+    {
+        "id": 264731,
+        "anime": "The Snack World: Hitogirai no Lenny",
+        "character": "Lenny",
+        "gender": null
+    },
+    {
+        "id": 142129,
+        "anime": "HELLO WORLD",
+        "character": "Naomi Katagaki",
+        "gender": "Male"
+    },
+    {
+        "id": 142131,
+        "anime": "HELLO WORLD",
+        "character": "Ruri Ichigyou",
+        "gender": "Female"
+    },
+    {
+        "id": 142133,
+        "anime": "HELLO WORLD",
+        "character": "Naomi Katagaki",
+        "gender": "Male"
+    },
+    {
+        "id": 132293,
+        "anime": "Star\u2606Twinkle Precure: Hoshi no Uta ni Omoi wo Komete",
+        "character": "Hikaru Hoshina",
+        "gender": "Female"
+    },
+    {
+        "id": 132294,
+        "anime": "Star\u2606Twinkle Precure: Hoshi no Uta ni Omoi wo Komete",
+        "character": "Lala Hagoromo",
+        "gender": "Female"
+    },
+    {
+        "id": 155502,
+        "anime": "Star\u2606Twinkle Precure: Hoshi no Uta ni Omoi wo Komete",
+        "character": "Yuma",
+        "gender": null
+    },
+    {
+        "id": 65271,
+        "anime": "Girls und Panzer: Saishuushou 4",
+        "character": "Momo Kawashima",
+        "gender": "Female"
+    },
+    {
+        "id": 90086,
+        "anime": "Girls und Panzer: Saishuushou 4",
+        "character": "Aki",
+        "gender": null
+    },
+    {
+        "id": 67491,
+        "anime": "Girls und Panzer: Saishuushou 4",
+        "character": "Azusa Sawa",
+        "gender": "Female"
+    },
+    {
+        "id": 90087,
+        "anime": "Girls und Panzer: Saishuushou 4",
+        "character": "Mikko",
+        "gender": null
+    },
+    {
+        "id": 90085,
+        "anime": "Girls und Panzer: Saishuushou 4",
+        "character": "Mika",
+        "gender": "Female"
+    },
+    {
+        "id": 157341,
+        "anime": "Cider no You ni Kotoba ga Wakiagaru",
+        "character": "Smile",
+        "gender": "Female"
+    },
+    {
+        "id": 157340,
+        "anime": "Cider no You ni Kotoba ga Wakiagaru",
+        "character": "Cherry",
+        "gender": "Male"
+    },
+    {
+        "id": 17860,
+        "anime": "Pandora to Akubi",
+        "character": "Akubi",
+        "gender": null
+    },
+    {
+        "id": 178608,
+        "anime": "Pandora to Akubi",
+        "character": "Pandora",
+        "gender": null
+    },
+    {
+        "id": 353668,
+        "anime": "Sumikko Gurashi Movie: Tobidasu Ehon to Himitsu no Ko",
+        "character": "Shirokuma",
+        "gender": null
+    },
+    {
+        "id": 162329,
+        "anime": "Dragon Quest: Your Story",
+        "character": "Bianca",
+        "gender": null
+    },
+    {
+        "id": 162330,
+        "anime": "Dragon Quest: Your Story",
+        "character": "Ryuka",
+        "gender": null
+    },
+    {
+        "id": 11686,
+        "anime": "ASTRO BOY: Tetsuwan Atom - 10-man Kounen no Raihousha - IGZA",
+        "character": "Atom Tetsuwan",
+        "gender": "Male"
+    },
+    {
+        "id": 247240,
+        "anime": "Sonagi",
+        "character": "Sonyeon",
+        "gender": "Male"
+    },
+    {
+        "id": 247241,
+        "anime": "Sonagi",
+        "character": "Yeoja",
+        "gender": "Female"
+    },
+    {
+        "id": 313,
+        "anime": "THE FIRST SLAM DUNK",
+        "character": "Hisashi Mitsui",
+        "gender": "Male"
+    },
+    {
+        "id": 312,
+        "anime": "THE FIRST SLAM DUNK",
+        "character": "Ryouta Miyagi",
+        "gender": "Male"
+    },
+    {
+        "id": 310,
+        "anime": "THE FIRST SLAM DUNK",
+        "character": "Hanamichi Sakuragi",
+        "gender": "Male"
+    },
+    {
+        "id": 314,
+        "anime": "THE FIRST SLAM DUNK",
+        "character": "Takenori Akagi",
+        "gender": "Male"
+    },
+    {
+        "id": 311,
+        "anime": "THE FIRST SLAM DUNK",
+        "character": "Kaede Rukawa",
+        "gender": "Male"
+    },
+    {
+        "id": 158991,
+        "anime": "Argonavis AXIA",
+        "character": "Nayuta Asahi",
+        "gender": "Male"
+    },
+    {
+        "id": 72921,
+        "anime": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+        "character": "Meliodas",
+        "gender": "Male"
+    },
+    {
+        "id": 72923,
+        "anime": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+        "character": "Elizabeth Liones",
+        "gender": "Female"
+    },
+    {
+        "id": 131559,
+        "anime": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+        "character": "Zeldris",
+        "gender": "Male"
+    },
+    {
+        "id": 77605,
+        "anime": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+        "character": "Ban",
+        "gender": "Male"
+    },
+    {
+        "id": 83801,
+        "anime": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+        "character": "King",
+        "gender": "Male"
+    },
+    {
+        "id": 74653,
+        "anime": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+        "character": "Diane",
+        "gender": "Female"
+    },
+    {
+        "id": 88823,
+        "anime": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+        "character": "Gowther",
+        "gender": null
+    },
+    {
+        "id": 206808,
+        "anime": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
+        "character": "Gelda",
+        "gender": null
+    },
+    {
+        "id": 7561,
+        "anime": "Macross Frontier: Toki no Meikyuu",
+        "character": "Ranka Lee",
+        "gender": "Female"
+    },
+    {
+        "id": 116,
+        "anime": "Kidou Senshi Gundam SEED FREEDOM",
+        "character": "Lacus Clyne",
+        "gender": "Female"
+    },
+    {
+        "id": 114,
+        "anime": "Kidou Senshi Gundam SEED FREEDOM",
+        "character": "Athrun Zala",
+        "gender": "Male"
+    },
+    {
+        "id": 113,
+        "anime": "Kidou Senshi Gundam SEED FREEDOM",
+        "character": "Kira Yamato",
+        "gender": "Male"
+    },
+    {
+        "id": 117,
+        "anime": "Kidou Senshi Gundam SEED FREEDOM",
+        "character": "Shinn Asuka",
+        "gender": "Male"
+    },
+    {
+        "id": 67451,
+        "anime": "Aikatsu! 10th STORY: Mirai e no STARWAY (2023)",
+        "character": "Ichigo Hoshimiya",
+        "gender": "Female"
+    },
+    {
+        "id": 67453,
+        "anime": "Aikatsu! 10th STORY: Mirai e no STARWAY (2023)",
+        "character": "Aoi Kiriya",
+        "gender": "Female"
+    },
+    {
+        "id": 67455,
+        "anime": "Aikatsu! 10th STORY: Mirai e no STARWAY (2023)",
+        "character": "Ran Shibuki",
+        "gender": "Female"
+    },
+    {
+        "id": 88523,
+        "anime": "Aikatsu! 10th STORY: Mirai e no STARWAY (2023)",
+        "character": "Akari\r\n Oozora",
+        "gender": "Female"
+    },
+    {
+        "id": 1743,
+        "anime": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+        "character": "Ai Haibara",
+        "gender": "Female"
+    },
+    {
+        "id": 1742,
+        "anime": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+        "character": "Conan Edogawa",
+        "gender": "Male"
+    },
+    {
+        "id": 169410,
+        "anime": "SSSS.DYNAZENON Movie",
+        "character": "Gauma",
+        "gender": "Male"
+    },
+    {
+        "id": 169409,
+        "anime": "SSSS.DYNAZENON Movie",
+        "character": "Yomogi Asanaka",
+        "gender": "Male"
+    },
+    {
+        "id": 169412,
+        "anime": "SSSS.DYNAZENON Movie",
+        "character": "Koyomi Yamanaka",
+        "gender": "Male"
+    },
+    {
+        "id": 169413,
+        "anime": "SSSS.DYNAZENON Movie",
+        "character": "Chise Asukagawa",
+        "gender": "Female"
+    },
+    {
+        "id": 169411,
+        "anime": "SSSS.DYNAZENON Movie",
+        "character": "Yume Minami",
+        "gender": "Female"
+    },
+    {
+        "id": 7241,
+        "anime": "SAND LAND",
+        "character": "Beelzebub",
+        "gender": "Male"
+    },
+    {
+        "id": 13698,
+        "anime": "SAND LAND",
+        "character": "Rao",
+        "gender": "Male"
+    },
+    {
+        "id": 13697,
+        "anime": "SAND LAND",
+        "character": "Thief",
+        "gender": null
+    },
+    {
+        "id": 218087,
+        "anime": "Boku to Roboco Movie",
+        "character": "Bondo Taira",
+        "gender": "Male"
+    },
+    {
+        "id": 180497,
+        "anime": "Boku to Roboco Movie",
+        "character": "Roboco",
+        "gender": "Female"
+    },
+    {
+        "id": 132797,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
+        "character": "Kasumi Nakasu",
+        "gender": "Female"
+    },
+    {
+        "id": 132798,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
+        "character": "Shizuku Ousaka",
+        "gender": "Female"
+    },
+    {
+        "id": 132802,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
+        "character": "Emma Verde",
+        "gender": "Female"
+    },
+    {
+        "id": 132801,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
+        "character": "Kanata Konoe",
+        "gender": "Female"
+    },
+    {
+        "id": 132803,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
+        "character": "Ayumu Uehara",
+        "gender": "Female"
+    },
+    {
+        "id": 250500,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
+        "character": "Lanzhu Zhong",
+        "gender": "Female"
+    },
+    {
+        "id": 170349,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
+        "character": "Yuu Takasaki",
+        "gender": "Female"
+    },
+    {
+        "id": 365456,
+        "anime": "Synapusyu THE MOVIE: Pushu Hoppe Nyuu World",
+        "character": "Nyuu",
+        "gender": null
+    },
+    {
+        "id": 365457,
+        "anime": "Synapusyu THE MOVIE: Pushu Hoppe Nyuu World",
+        "character": "Pushu Pushu",
+        "gender": null
+    },
+    {
+        "id": 126905,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Shin Ichijou",
+        "gender": "Male"
+    },
+    {
+        "id": 126907,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Kazuki Nishina",
+        "gender": "Male"
+    },
+    {
+        "id": 126897,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Louis Kisaragi",
+        "gender": "Male"
+    },
+    {
+        "id": 126906,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Kouji Mihama",
+        "gender": "Male"
+    },
+    {
+        "id": 126899,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Leo Saionji",
+        "gender": "Male"
+    },
+    {
+        "id": 126908,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Hiro Hayami",
+        "gender": "Male"
+    },
+    {
+        "id": 126900,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Minato Takahashi",
+        "gender": "Male"
+    },
+    {
+        "id": 126904,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Yukinojou Tachibana",
+        "gender": "Male"
+    },
+    {
+        "id": 126903,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Taiga Kougami",
+        "gender": "Male"
+    },
+    {
+        "id": 126902,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Kakeru Juuouin",
+        "gender": "Male"
+    },
+    {
+        "id": 134860,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Joji Takadanobaba",
+        "gender": "Male"
+    },
+    {
+        "id": 126896,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Alexander Yamato",
+        "gender": "Male"
+    },
+    {
+        "id": 126898,
+        "anime": "KING OF PRISM -Dramatic PRISM.1-",
+        "character": "Yuu Suzuno",
+        "gender": "Male"
+    },
+    {
+        "id": 127691,
+        "anime": "Jujutsu Kaisen: Kaigyoku\u30fbGyokusetsu",
+        "character": "Satoru Gojou",
+        "gender": "Male"
+    },
+    {
+        "id": 133699,
+        "anime": "Jujutsu Kaisen: Kaigyoku\u30fbGyokusetsu",
+        "character": "Suguru Getou",
+        "gender": "Male"
+    },
+    {
+        "id": 306614,
+        "anime": "GIRLS BAND CRY: Seishun Kyousoukyoku",
+        "character": "Nina Iseri",
+        "gender": "Female"
+    },
+    {
+        "id": 306620,
+        "anime": "GIRLS BAND CRY: Seishun Kyousoukyoku",
+        "character": "Rupa",
+        "gender": "Female"
+    },
+    {
+        "id": 306616,
+        "anime": "GIRLS BAND CRY: Seishun Kyousoukyoku",
+        "character": "Momoka Kawaragi",
+        "gender": "Female"
+    },
+    {
+        "id": 306618,
+        "anime": "GIRLS BAND CRY: Seishun Kyousoukyoku",
+        "character": "Subaru Awa",
+        "gender": "Female"
+    },
+    {
+        "id": 306619,
+        "anime": "GIRLS BAND CRY: Seishun Kyousoukyoku",
+        "character": "Tomo Ebizuka",
+        "gender": "Female"
+    },
+    {
+        "id": 89885,
+        "anime": "Kaguya-hime (1972)",
+        "character": "Kaguya-hime",
+        "gender": "Female"
+    },
+    {
+        "id": 261093,
+        "anime": "Senpai wa Otokonoko: Ame Nochi Hare",
+        "character": "Saki Aoi",
+        "gender": "Female"
+    },
+    {
+        "id": 261090,
+        "anime": "Senpai wa Otokonoko: Ame Nochi Hare",
+        "character": "Ryuuji Taiga",
+        "gender": "Male"
+    },
+    {
+        "id": 261092,
+        "anime": "Senpai wa Otokonoko: Ame Nochi Hare",
+        "character": "Makoto Hanaoka",
+        "gender": "Male"
+    },
+    {
+        "id": 123962,
+        "anime": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
+        "character": "Rimuru Tempest",
+        "gender": "Male (past life) \u2192 Agender"
+    },
+    {
+        "id": 4303,
+        "anime": "Doraemon: Nobita no e Sekai Monogatari",
+        "character": "Nobita Nobi",
+        "gender": "Male"
+    },
+    {
+        "id": 4304,
+        "anime": "Doraemon: Nobita no e Sekai Monogatari",
+        "character": "Doraemon",
+        "gender": "Male"
+    },
+    {
+        "id": 169406,
+        "anime": "Blue Lock: EPISODE Nagi - Additional Time!",
+        "character": "Zantetsu Tsurugi",
+        "gender": "Male"
+    },
+    {
+        "id": 162969,
+        "anime": "Blue Lock: EPISODE Nagi - Additional Time!",
+        "character": "Seishirou Nagi",
+        "gender": "Male"
+    },
+    {
+        "id": 169394,
+        "anime": "Blue Lock: EPISODE Nagi - Additional Time!",
+        "character": "Reo Mikage",
+        "gender": "Male"
+    },
+    {
+        "id": 132796,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Setsuna Yuki",
+        "gender": "Female"
+    },
+    {
+        "id": 208996,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Shioriko Mifune",
+        "gender": "Female"
+    },
+    {
+        "id": 132799,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Ai Miyashita",
+        "gender": "Female"
+    },
+    {
+        "id": 250499,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Mia Taylor",
+        "gender": "Female"
+    },
+    {
+        "id": 132795,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Karin Asaka",
+        "gender": "Female"
+    },
+    {
+        "id": 132800,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Rina Tennouji",
+        "gender": "Female"
+    },
+    {
+        "id": 132802,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Emma Verde",
+        "gender": "Female"
+    },
+    {
+        "id": 132801,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Kanata Konoe",
+        "gender": "Female"
+    },
+    {
+        "id": 132803,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Ayumu Uehara",
+        "gender": "Female"
+    },
+    {
+        "id": 250500,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Lanzhu Zhong",
+        "gender": "Female"
+    },
+    {
+        "id": 132797,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Kasumi Nakasu",
+        "gender": "Female"
+    },
+    {
+        "id": 132798,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Shizuku Ousaka",
+        "gender": "Female"
+    },
+    {
+        "id": 170349,
+        "anime": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+        "character": "Yuu Takasaki",
+        "gender": "Female"
+    }
+]
