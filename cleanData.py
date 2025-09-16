@@ -24,6 +24,14 @@ def createStudioList(studioData):
         studios.append(studio["name"])
     return studios
 
+def findYear(item):
+    if item["year"] is not None:
+        return item["year"]
+    elif item["aired"]["prop"]["from"]["year"] is not None:
+        return item["aired"]["prop"]["from"]["year"]
+    else:
+        return None
+
 def cleanData():
     global data, newData
     for item in data:
@@ -33,8 +41,10 @@ def cleanData():
         new_entries["type"] = item["type"]
         new_entries["airing"] = item["airing"]
         new_entries["score"] = item["score"]
-        new_entries["year"] = item["year"]
+        new_entries["year"] = findYear(item)
         new_entries["rank"] = item["rank"]
+        new_entries["popularity"] = item["popularity"]
+        new_entries["favorites"] = item["favorites"]
         new_entries["studio"] = createStudioList(item["studios"]) if "studios" in item else []
         new_entries["genres"] = [genre["name"] for genre in item["genres"]] if "genres" in item else []
         new_entries["theme"] = [theme["name"] for theme in item["themes"]] if "themes" in item else []
@@ -61,9 +71,9 @@ def final_clean():
 
 
 def main():
-    load_data('tvseries.json')
-    final_clean()
-    save_cleaned_data('tvseries.json')
+    load_data('old-module_1_files/every.json')
+    cleanData()
+    save_cleaned_data('anime.json')
     print("Data cleaning process completed.")
 
 main()
